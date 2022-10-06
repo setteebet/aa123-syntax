@@ -1,18 +1,18 @@
 {
   "name": "aa123-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lottoonevip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"lottoonevip",
-"ดูหวยออนไลน์",
-"แอป lottovip",
-"เว็บหวยออนไลน์ที่มาแรงที่สุดในตอนนี้",
-"หวยป้าดี"
-],
+  "version": "0.2.0",
+  "description": "lottoonevip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "lottoonevip",
+    "ดูหวยออนไลน์",
+    "แอป lottovip",
+    "เว็บหวยออนไลน์ที่มาแรงที่สุดในตอนนี้",
+    "หวยป้าดี"
+  ],
   "repository": "https://github.com/setteebet/aa123-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
